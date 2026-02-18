@@ -6,8 +6,8 @@ function Footer() {
         <footer className="footer">
             <div className="footer-socials">
                 <a
-                    /* href="https://instagram.com/YOUR_USERNAME" */
-                    href=""
+
+                    href="https://instagram.com/maestroinsuranceandinvestments"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
@@ -15,8 +15,8 @@ function Footer() {
                 </a>
 
                 <a
-                  /*  href="https://facebook.com/YOUR_PAGE" */
-                    href=""
+
+                    href="https://instagram.com/maestroinsuranceandinvestments"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

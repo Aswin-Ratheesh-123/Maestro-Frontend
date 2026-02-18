@@ -1,5 +1,4 @@
 import React from "react";
-import ServiceCard from "./ServiceCard";
 import  { useEffect } from "react";
 import life from "../assets/life.webp";
 import health from "../assets/health.jfif";
@@ -26,7 +25,7 @@ import carLoan from "../assets/carloan.avif";
 
 function Services() {
 
-
+ 
     
 
     // 1. Define services first
